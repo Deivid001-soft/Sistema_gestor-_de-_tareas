@@ -1,5 +1,4 @@
-<img width="1213" height="508" alt="Captura de pantalla 2026-07-08 214131" src="https://github.com/user-attachments/assets/ca8cba8f-8c8c-4f62-8d3a-47b2c540e906" />
-# Sistema de Gestión de Tareas
+# SISTEMA DE GESTION DE TAREAS
 
 Aplicación web para la creación, organización y seguimiento de tareas, desarrollada como proyecto personal para practicar el desarrollo web full-stack y el consumo de APIs.
 
@@ -8,9 +7,9 @@ Aplicación web para la creación, organización y seguimiento de tareas, desarr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## Descripción
+## DESCRIPCION
 
-Este proyecto permite a los usuarios registrar, editar, marcar como completadas y eliminar tareas de forma sencilla. Fue construido para poner en práctica la integración entre frontend y backend, así como el consumo de APIs para el intercambio de datos entre los distintos componentes de la aplicación.
+Este proyecto permite a los usuarios registrar, editar, marcar como completadas, pendientes, en progreso, cancelar y eliminar tareas de forma sencilla. Además de establecer prioridad, ya sea baja, media, alta y urgente. Fue construido para poner en práctica la integración entre frontend y backend, así como el consumo de APIs para el intercambio de datos entre los distintos componentes de la aplicación.
 
 ## Tecnologías utilizadas
 
