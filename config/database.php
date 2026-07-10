@@ -1,8 +1,8 @@
 <?php
 class Database {
-    private $host = 'localhost: 3307';
-    private $db_name = 'task_manager';
-    private $username = 'root';
+    private $host = 'mysql-1df33cee-gestor-tareas02222.f.aivencloud.com: 25368';
+    private $db_name = 'defaultdb';
+    private $username = 'avnadmin';
     private $password = '';
     private $conn;
 
